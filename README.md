@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Win Htoo Naing</h1>
-<h3 align="center">A beginner web developer from Myanmar</h3>
+<h3 align="center">A student studying web development
+ from Myanmar</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRchshGDUFr3gWDEZEc9QttySpMbO5kv2WEWJrE8Ff00J2LUNwzuckAo6t2qku_vLWBqsc&usqp=CAU.gif" />
 
 - 🌱 I’m currently learning **MERN Stack**

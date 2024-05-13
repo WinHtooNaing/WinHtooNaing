@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/winhtoonaing](https://github.com/winhtoonaing)
 
-- 💬 Ask me about **javascript,java,C# and php**
+- 💬 Ask me about **javascript and php**
 
 - 📫 How to reach me **winhtoonaing2003@gmail.com**
 
